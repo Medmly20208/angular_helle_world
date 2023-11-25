@@ -1,0 +1,15 @@
+.wish-list{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 3em;
+    flex-direction: column;
+}
+
+.form-handler{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 3em;
+    gap: 2em;
+}
